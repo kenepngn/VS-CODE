@@ -15,7 +15,8 @@ This is a simple digital clock project created using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Digital Clock](screenshot.png)
+![Digital Clock](digitalclock.png)
+
 
 ## Contributing
 
